@@ -62,9 +62,6 @@ Each menu displays dishes with unique IDs and prices. Enter the dish ID to add t
 
 5. Logout to end the session.
 
-## License
-This project is licensed under the MIT License.
-
 Happy coding! 😊
 
 
